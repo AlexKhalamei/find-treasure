@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  font-size: 25px;
+}
+#clickFlow {
+  font-size: 20px;
+}
